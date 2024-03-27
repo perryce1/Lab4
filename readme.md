@@ -6,4 +6,4 @@ I am a student at App State and I created this map for a class project. I am maj
 
 I downloaded this data from the U.S. Census Bureau official website to ensure that it is accurate. Because it is from 2023, it is the most updated census data that we have for the U.S. and is therefore the most accurate to the current population.
 
-I
+I chose to do a proportional symbol map to represent this data because I believe it has the greatest visual impact for the user to understand the scale of the population by state. I chose a sage green/orange color palette simply because I thought the two colors meshed well, and chose a red color as the user clicks on each separate point because red is typically an alarming color.
